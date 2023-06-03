@@ -23,7 +23,7 @@ const connect = () => {
 };
 
 const corsOptions = {
-  origin: "https://mtube-api.onrender.com/api",
+  origin: "https://mtube-api.onrender.com/api/",
   credentials: true, //access-control-allow-credentials:true
   optionSuccessStatus: 200,
 };
